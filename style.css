@@ -1,0 +1,228 @@
+.property-details
+
+{
+
+position: relative;
+
+width: 120rem;
+
+height: 67.5rem;
+
+background: #121212;
+
+}
+
+h1
+
+{
+
+position: absolute;
+
+width: 53.063rem;
+
+height:6.25rem;
+
+left: 52.5rem;
+
+top: 10.625rem;
+
+font-family:'Ivy Mode';
+
+font-style: italic;
+
+font-size:4.188rem;
+
+color: #FFFFFF;
+
+text-transform:uppercase;
+
+ line-height:6.125rem;
+
+text-shadow: 0rem 0.938rem 1.875rem rgba(0, 0, 0, 0.5);
+
+}
+
+.rectagle9
+
+{
+
+position: absolute;
+
+width: 6rem;
+
+height: 6rem;
+
+left: 9.438rem;
+
+top: 12.063rem;
+
+background: linear-gradient(140.08deg, #A87C2F 0%, #E7B542 85.52%);
+
+border-radius: 0.938rem;
+
+}
+
+.rectangle
+
+{
+
+position: absolute;
+
+width:53.625rem;
+
+height:39.375rem;
+
+left:11.375rem;
+
+top:14.063rem;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(.jpg);
+
+mix-blend-mode: normal;
+
+border-radius: 0rem 1.875rem 1.875rem 1.875rem;
+
+}
+
+.content
+
+{
+
+position: absolute;
+
+width: 37.625rem;
+
+height: 15rem;
+
+left: 69.25rem;
+
+top: 26.813rem;
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight: 37.5rem;
+
+font-size: 1.438rem;
+
+line-height: 1.875rem;
+
+color: #AAAAAA;
+
+}
+
+.content2
+
+{
+
+ position: absolute;
+
+width: 37.625rem;
+
+height: 15rem;
+
+left: 69.25rem;
+
+top: 42.188rem;
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight:37.5rem;
+
+font-size: 1.563rem;
+
+line-height: 2.188rem;
+
+color: #AAAAAA;
+
+margin:0.313rem;
+
+}
+
+.miniframe
+
+{
+
+display: flex;
+
+flex-direction: row;
+
+align-items: flex-end;
+
+Fpadding: 0rem;
+
+gap: 1.5rem;
+
+
+
+position: absolute;
+
+width: 30.5rem;
+
+height: 2.625rem;
+
+left: 81.25rem;
+
+top: 20.625rem;
+
+}
+
+li
+
+{
+
+display:inline;
+
+width: 11.313rem;
+
+height: 2.625rem;
+
+top: 21rem;
+
+left:27.438rem;
+
+font-family:'Poppins';
+
+font-style: normal;
+
+font-size: 1.75rem;
+
+line-height: 2.625rem;
+
+color: #E7B542;
+
+flex: none;
+
+order: 0;
+
+flex-grow: 0;
+
+}
+
+hr 
+
+{ 
+
+position: absolute;
+
+width: 50.75rem;
+
+height: 0rem;
+
+left: 69.25rem;
+
+top: 21.313rem;
+
+border: 0.125rem solid #FFFFFF;
+
+}
+.cornerimg img{
+    position: absolute;
+   
+    top: 17.5%;
+    left: 7.3%;
+
+}
