@@ -1,0 +1,571 @@
+.property-details
+
+{
+
+position: relative;
+
+width: 120rem;
+
+height: 67.5rem;
+
+background: #121212;
+
+}
+
+h1
+
+{
+
+position: absolute;
+
+width: 53.063rem;
+
+height:6.25rem;
+
+left: 52.5rem;
+
+top: 10.625rem;
+
+font-family:'Ivy Mode';
+
+font-style: italic;
+
+font-size:4.188rem;
+
+color: #FFFFFF;
+
+text-transform:uppercase;
+
+ line-height:6.125rem;
+
+text-shadow: 0rem 0.938rem 1.875rem rgba(0, 0, 0, 0.5);
+
+}
+
+.rectagle9
+
+{
+
+position: absolute;
+
+width: 6rem;
+
+height: 6rem;
+
+left: 9.438rem;
+
+top: 12.063rem;
+
+background: linear-gradient(140.08deg, #A87C2F 0%, #E7B542 85.52%);
+
+border-radius: 0.938rem;
+
+}
+
+.rectangle
+
+{
+
+position: absolute;
+
+width:53.625rem;
+
+height:39.375rem;
+
+left:11.375rem;
+
+top:14.063rem;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(.jpg);
+
+mix-blend-mode: normal;
+
+border-radius: 0rem 1.875rem 1.875rem 1.875rem;
+
+}
+
+.content
+
+{
+
+position: absolute;
+
+width: 37.625rem;
+
+height: 15rem;
+
+left: 69.25rem;
+
+top: 26.813rem;
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight: 37.5rem;
+
+font-size: 1.438rem;
+
+line-height: 1.875rem;
+
+color: #AAAAAA;
+
+}
+
+.content2
+
+{
+
+ position: absolute;
+
+width: 37.625rem;
+
+height: 15rem;
+
+left: 69.25rem;
+
+top: 42.188rem;
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight:37.5rem;
+
+font-size: 1.563rem;
+
+line-height: 2.188rem;
+
+color: #AAAAAA;
+
+margin:0.313rem;
+
+}
+
+.miniframe
+
+{
+
+display: flex;
+
+flex-direction: row;
+
+align-items: flex-end;
+
+Fpadding: 0rem;
+
+gap: 1.5rem;
+
+
+
+position: absolute;
+
+width: 30.5rem;
+
+height: 2.625rem;
+
+left: 81.25rem;
+
+top: 20.625rem;
+
+}
+
+li
+
+{
+
+display:inline;
+
+width: 11.313rem;
+
+height: 2.625rem;
+
+top: 21rem;
+
+left:27.438rem;
+
+font-family:'Poppins';
+
+font-style: normal;
+
+font-size: 1.75rem;
+
+line-height: 2.625rem;
+
+color: #E7B542;
+
+flex: none;
+
+order: 0;
+
+flex-grow: 0;
+
+}
+
+hr 
+
+{ 
+
+position: absolute;
+
+width: 50.75rem;
+
+height: 0rem;
+
+left: 69.25rem;
+
+top: 21.313rem;
+
+border: 0.125rem solid #FFFFFF;
+
+}
+.cornerimg img{
+    position: absolute;
+   
+    top: 17.5%;
+    left: 7.3%;
+
+}
+@media (min-width:1200px)
+{
+    
+
+    .property-details
+    {
+        height: 54.5rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 6.5%;
+        left: 1.3%;
+    }
+    .rectangle
+    {
+        width: 60.625rem;
+        height: 40.375rem;
+        position: absolute;
+        left: 3.375rem;
+        top: 5.063rem;
+    }
+h1
+{   
+    font-size: 3.5rem;
+    position: absolute;
+    left: 52.5rem;
+    top: 0.5rem;
+}
+hr
+{
+    position: absolute;
+    width: 50.75rem;
+    height: 0rem;
+    left: 69.25rem;
+    top: 8.313rem;
+}
+
+.miniframe
+{
+    gap: 3.5rem;
+    position: absolute;
+    width: 22.5rem;
+    height: 2.625rem;
+    left: 66.25rem;
+    top: 7.625rem;
+}
+.content
+{
+    left: 69.25rem;
+    top: 11.813rem;
+    position: absolute;
+    width: 47.625rem;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+
+}
+.content2
+{
+    position: absolute;
+    width: 47.625rem;
+    height: 15rem;
+    left: 69rem;
+    top: 32.188rem;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+}
+li
+{
+    width: 10.313rem;
+}
+}
+@media (min-width:992px) and (max-width:1199px)
+{
+
+
+
+    .property-details
+    {
+        height: 51.5rem;
+        width: 111rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 6.5%;
+        left: 1.3%;
+        height: 5rem;
+
+    left: 1.3%;
+    }
+    .rectangle
+    {
+        
+        width: 56.625rem;
+        height: 38.375rem;
+        position: absolute;
+        left: 3.375rem;
+        top: 5.063rem;
+    }
+h1
+{     font-size: 3.5rem;
+    position: absolute;
+    left: 49.5rem;
+    top: 1.5rem;
+}
+hr
+{
+    position: absolute;
+    width: 46.75rem;
+    height: 0rem;
+    left: 63.25rem;
+    top: 9.313rem;
+}
+
+.miniframe
+{
+    gap: 1.5rem;
+    position: absolute;
+    width: 22.5rem;
+    height: 2.625rem;
+    left: 67.25rem;
+    top: 8.625rem;
+}
+.content
+{
+   
+    left: 64.25rem;
+    top: 12.813rem;
+    position: absolute;
+    width: 44.625rem;
+    font-size: 2rem;
+
+}
+.content2
+{
+    position: absolute;
+    width: 43.625rem;
+    height: 15rem;
+    left: 64.25rem;
+    top: 30.188rem;
+    font-size: 2rem;
+}
+li
+{
+    width: 10.313rem;
+}
+}
+
+
+@media (min-width:768px) and (max-width:991px)
+{
+    .property-details
+    {
+        height: 97.5rem;
+        width: 76rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 2.5%;
+        left: 1.3%;
+    }
+    .rectangle
+    {
+        
+        width: 65.625rem;
+        height: 43.375rem;
+        position: absolute;
+        left: 3.375rem;
+        top: 5.063rem;
+    }
+h1
+{    font-size: 4.5rem;
+    position: absolute;
+    left: 12.5rem;
+    top: -0.375rem;
+}
+hr
+{
+    position: absolute;
+    width: 59.75rem;
+    height: 0rem;
+    left: 0.25rem;
+    top: 52.313rem;
+}
+
+.miniframe
+{
+    gap: 12.5rem;
+    position: absolute;
+    width: 35.5rem;
+    height: 2.625rem;
+    left: -0.75rem;
+    top: 50.625rem;
+}
+.content
+{    left: 3.25rem;
+    top: 57.813rem;
+    position: absolute;
+    width: 68.625rem;
+    font-size: 2rem;
+    line-height: 2.875rem;
+}
+.content2
+{
+    position: absolute;
+    width: 68.625rem;
+    height: 15rem;
+    left: 3.25rem;
+    top: 77.188rem;
+    font-size: 2rem;
+    line-height: 2.875rem;
+}
+}
+@media (min-width:481px) and (max-width:767px)
+{
+    .property-details
+    {
+        height: 103.5rem;
+        width: 74rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 1.5%;
+        left: 0.5%;
+    }
+    .rectangle
+    {
+        width: 66.625rem;
+        height: 46.375rem;
+        position: absolute;
+        left: 3.375rem;
+        top: 4.063rem;
+    }
+h1   
+{ font-size: 4.5rem;
+position: absolute;
+left: 12.5rem;
+top: -1rem;
+}
+hr
+{
+    position: absolute;
+    width: 60.75rem;
+    height: 0rem;
+    left: 0.25rem;
+    top: 54.313rem;
+}
+
+.miniframe
+{
+    gap: 12.5rem;
+    position: absolute;
+    width: 30.5rem;
+    height: 2.625rem;
+    left: 0.25rem;
+    top: 52.625rem;
+}
+.content
+{
+    left: 3.25rem;
+    top: 58.813rem;
+    position: absolute;
+    width: 67.625rem;
+    font-size: 2.5rem;
+    line-height: 2.875rem;
+}
+.content2
+{
+    position: absolute;
+    width: 66.625rem;
+    height: 15rem;
+    left: 3rem;
+    top: 80.188rem;
+    font-size: 2.5rem;
+    line-height: 2.875rem;
+}
+}
+
+
+@media (max-width:480px)
+{
+    .rectangle 
+    {
+        position: absolute;
+        width: 36.625rem;
+        height: 29.375rem;
+        left: 2rem;
+        top: 6.4rem;
+    }
+    .cornerimg img
+    {
+        position: absolute;
+        top: 5.7%;
+    left: 0.3%;
+    height: 5rem;
+    width: 5rem;
+    }
+   h1
+   {
+    position: absolute;
+    width: 53.063rem;
+    height: 6.25rem;
+    left: 6rem;
+    top: 1.4rem;
+    font-size: 2.5rem;
+   }
+   .miniframe 
+   {
+    position: absolute;
+    width: 23.5rem;
+    height: 2.625rem;
+    left: -1.75rem;
+    top: 37.625rem;
+   }
+   hr {
+    position: absolute;
+    width: 35.75rem;
+    height: 0rem;
+    left: 0.25rem;
+    opacity: 1;
+    color: #FFFFFF;
+    top: 39.313rem;
+    border: 0.125rem solid #FFFFFF;
+}
+.content
+{
+    left: 1.25rem;
+    top: 42.813rem;
+}
+.property-details
+{
+    height: 90.5rem;
+    width: 41rem;
+}
+.content2
+{
+    left: 1.25rem;
+    top: 61.188rem;
+}
+}
